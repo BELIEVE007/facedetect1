@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Chakra Petch', sans-serif;
+  background: linear-gradient(to right, #1fa2ff, #12d8fa, #a6ff7b);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+button{
+	cursor:pointer;
+}
